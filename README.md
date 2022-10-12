@@ -1,5 +1,7 @@
 # streamlit-backend-cli-runner
 
+![](sample.gif)
+
 Install [Poetry](https://python-poetry.org/)
 ```
 curl -sSL https://install.python-poetry.org | python3 -
